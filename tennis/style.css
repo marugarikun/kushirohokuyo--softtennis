@@ -1,0 +1,37 @@
+h2{
+    color: blue;
+}
+
+.bg{
+    width: 1200px;
+    margin: 0 auto;
+    clear: both;
+    background-color: #fff;
+    box-shadow: 0 0 5px 1px rgba(4, 187, 243, 0.1);
+}
+
+body{
+    background-image: url(img/001.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    margin-bottom: 0px;
+    height: 1650px;
+}
+
+.header{
+    position: relative;
+    width: 1200px;
+    height: 220px;
+    line-height: 0;
+    margin: 0 auto 0;
+    background-image: url(img/002.png);
+}
+
+.main{
+    width: 1080px;
+    margin: 0 auto;
+    padding: 40px 60px;
+    clear: both;
+    min-height: 700px;
+}
